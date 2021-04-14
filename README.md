@@ -43,7 +43,7 @@ return true;
 </script>
 </head>
 <body>
-<h1>Welcome Guest...Register With US!!</h1><br><br>
+<h1>Welcome opticare-IMS...Register With US!!</h1><br><br>
 <form action="FormValidation.html" name="myForm"
 onsubmit="return validate()">
 <table border="0">
